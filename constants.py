@@ -35,3 +35,4 @@ S_FLOOR = pygame.image.load("images/gbwall.png")
 S_FLOOR_EXPLORED = pygame.image.load("images/exploredfloor16.png")
 S_ENEMY = pygame.image.load("images/gbskull.png")
 S_BLOOD = pygame.image.load("images/bloodgb.png")
+#Pruebagit
